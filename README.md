@@ -1,7 +1,9 @@
 
 # How to Add Vertical Tabs to a Form with React Admin Starter Project
 
-This a the beginning repository for a tutorial adding vertical tabs in React Admin.
+This a the complete repository for a tutorial adding vertical tabs in React Admin.
+
+<img src="./vertical_tabs.gif" height="auto" width="100%">
 
 API calls with the `dataProvider` are intercepted by a [msw](https://mswjs.io/docs/getting-started/mocks/rest-api#request-handler). Additionally, because this a tutorial application, the mock API is storing and retrieving data using local storage. 
 
