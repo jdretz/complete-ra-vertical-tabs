@@ -60,7 +60,6 @@ const CustomForm = (props) => {
             )}
             <div style={{ flexGrow: '1', padding: '16px' }}>
                 {Children.map(children, (tab, index) => {
-                    console.log(tab)
                     if (!tab) {
                         return;
                     }
